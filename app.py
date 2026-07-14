@@ -16,7 +16,7 @@ st.set_page_config(
 #===================================
 #Stage 2: LOAD DATASET
 #===================================
-df = pd.read_csv("pharmacy_full_data.csv")
+df = pd.read_csv("Pharmacy_full_data.csv")
 
 #===================================
 # Convert Date Columns
